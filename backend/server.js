@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
-// better-sqlite3 (sin warnings, más rápido)
+// better-sqlite3 ( más rápido)
 const db = new Database('./wellness.db');
 console.log('✓ SQLite conectada');
 
