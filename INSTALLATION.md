@@ -2,7 +2,7 @@
 
 ## Prerequisitos
 
-✅ **Node.js 20+** instalado ([Descargar aquí](https://nodejs.org))  
+✅ **Node.js 20+ 20.19.4** instalado ([Descargar aquí](https://nodejs.org))  
 ✅ **Expo Go** en tu teléfono descargalo desde tu tienda apps:
 - [iOS App Store](https://apps.apple.com/app/expo-go/id982107779)
 - [Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)

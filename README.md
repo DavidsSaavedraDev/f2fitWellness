@@ -254,6 +254,6 @@ f2fit-wellness/
 └── README.md
 ```
 
-**Total: 7 archivos. Simple, completo, funcional.**
+**Total:  Simple, completo, funcional.**
 
 ## 📄 Licencia Davids Developers programar es mi arte (2025)
