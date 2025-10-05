@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "F2Fit Wellness",
+    "slug": "f2fit-wellness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#FF4081",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.f2fit.wellness"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF4081"
+      },
+      "package": "com.f2fit.wellness"
+    }
+  }
+}
