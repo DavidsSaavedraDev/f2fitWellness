@@ -22,7 +22,7 @@ const HABIT_LABELS = {
 // IMPORTANTE: Cambiar por tu IP local si usas dispositivo físico
 // Ejemplo: const API_URL = 'http://192.168.1.100:3000/api/wellness';
 // const API_URL = 'http://localhost:3000/api/wellness';
-const API_URL = 'http://10.141.78.203:3000/api/wellness'
+const API_URL = 'http://10.40.150.90:3000/api/wellness'
 
 export default function WellnessScreen({ navigation }) {
   const [energy, setEnergy] = useState(3);
